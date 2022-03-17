@@ -1,6 +1,6 @@
-// Abe Tesma 
+// Abe Tesma ...... 
 let weather = {
-    'apiKey': "Api Key",
+    'apiKey': "0c822dcd9c7f6b6a4ba56077e90a16a2",
     fetchWeather: function (city) {
         fetch(
             "https://api.openweathermap.org/data/2.5/weather?q=" +
